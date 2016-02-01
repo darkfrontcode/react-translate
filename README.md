@@ -1,4 +1,4 @@
-# react-translate
+# React-Translate
 Multi-language web site example with react without Flux, Reflux, Redux or Airflux, just props and LocalStorage.
 
 #ho to Install
